@@ -1,0 +1,1 @@
+Demo for git status behavior
